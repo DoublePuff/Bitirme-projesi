@@ -1,0 +1,29 @@
+/* başlık ayarları genel */
+h2{
+    text-align: center;
+    color: #7DFDFE;
+}
+
+/* metinler */
+p{
+    font-size: larger;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
+
+/* images */
+img{
+    margin: auto;
+    margin-bottom:2cm;
+    display: block;
+}
+
+/* sayfa düzeni */
+div{
+    margin-left:10cm; /* this will center the page */
+    margin-right:10cm;                                                                                      
+ }
+ body {
+    background-color:black;
+  }
